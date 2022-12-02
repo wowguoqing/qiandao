@@ -51,8 +51,8 @@ services:
       # - QIANDAO_EVIL=1000
       # - EVIL_PASS_LAN_IP=True
       - PBKDF2_ITERATIONS=400
-      - AES_KEY=binux
-      - COOKIE_SECRET=binux
+      - AES_KEY=wowguoqing
+      - COOKIE_SECRET=wowguoqing
       # - CHECK_TASK_LOOP=500
       # - DOWNLOAD_SIZE_LIMIT=5242880
       # - REQUEST_TIMEOUT=30.0
